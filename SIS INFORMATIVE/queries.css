@@ -1,0 +1,705 @@
+@media(max-width:2560px){
+    .main-container{
+        width: 100%;
+    }
+    .header{
+        width: 100%;
+    }
+    .logo{
+        padding-left: 100px;
+
+    }
+   
+    .inner-menu{
+        display: flex;
+        justify-content: center;
+        column-gap: 30px;
+    }
+    .hero-container{
+        width: 70%;
+        padding: 100px;
+    }
+    .hero-section{
+        width: 100%;
+    }
+    .hero-image{
+        width: 100%;
+    }
+    .paragraph-1{
+      
+        margin-bottom: 5px;
+        font-weight: 400;
+    }
+    .hero{
+        width: 60%;
+    }
+
+    .section-about{
+       width: 100%;
+       column-gap: 80px;
+    }
+    .about-image-section{
+        width: 90%;
+        padding: 100px;
+    }
+    .about-content{
+        width: 80%;
+    }
+    .our-mission{
+      width: 100%;
+    }
+    .our-mission-content{
+        width: 70%;
+        padding: 100px;
+    }
+    .gallery{
+        width: 80%;
+    }
+
+    .menu{
+        font-size: 15px ;
+    }
+    
+    .gallery-2{
+        width: 92%;
+        padding: 50px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .our-vision{
+        width: 100%;
+    }
+    .our-vision-content{
+        width: 40%;
+    }
+    .doctor-image{
+        width: 100%;
+        padding: 50px;
+    }
+
+    .Services{
+       width: 50%;
+    }
+    .Our-medical-services{
+       width: 100%;
+    }
+    .vector-image{
+       display: flex;
+       justify-content: center;
+       margin-top: -75px;
+       margin-bottom: 40px;
+    }
+    .Services{
+        width: 100%;
+    }
+    .services-header{
+        padding-top: 40px;
+    }
+
+    .our-testimonial{
+      width: 85%;
+      padding: 100px;
+    }
+    .our-testimonial-header{
+        width: 100%;
+    }
+    .Our-approach{
+       width: 100%;
+       padding-bottom: 20px;
+    }
+    .gallery-3{
+        width: 70%;
+        padding: 50px;
+    }
+    .Our-approach-heading{
+        padding: 50px;
+    }
+    .call-to-action{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .footer{
+      width: 100%;
+    }
+} 
+
+@media (max-width: 1440px){
+    .main-container{
+        width: 100%;
+    }
+    .header{
+        width: 100%;
+    }
+    .logo{
+        padding-left: 100px;
+
+    }
+    .inner-menu{
+        display: flex;
+        column-gap: 30px;
+    }
+    .hero-container{
+        width: 70%;
+        padding: 100px;
+    }
+    .hero-section{
+        width: 100%;
+    }
+    .hero-image{
+        width: 100%;
+    }
+    .paragraph-1{
+      
+        margin-bottom: 5px;
+        font-weight: 400;
+    }
+    .hero{
+        width: 60%;
+    }
+
+    .section-about{
+       width: 100%;
+       column-gap: 80px;
+    }
+    .about-image-section{
+        width: 90%;
+        padding: 100px;
+    }
+    .about-content{
+        width: 80%;
+    }
+    .our-mission{
+      width: 100%;
+    }
+    .our-mission-content{
+        width: 70%;
+        padding: 100px;
+    }
+    .gallery{
+        width: 80%;
+    }
+
+    .menu{
+        font-size: 15px ;
+    }
+    
+    .gallery-2{
+        width: 92%;
+        padding: 50px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .our-vision{
+        width: 100%;
+    }
+    .our-vision-content{
+        width: 40%;
+    }
+    .doctor-image{
+        width: 100%;
+        padding: 50px;
+    }
+
+    .Services{
+       width: 50%;
+    }
+    .Our-medical-services{
+       width: 100%;
+    }
+    .vector-image{
+       display: flex;
+       justify-content: center;
+       margin-top: -75px;
+       margin-bottom: 40px;
+    }
+    .Services{
+        width: 100%;
+    }
+    .services-header{
+        padding-top: 40px;
+    }
+
+    .our-testimonial{
+      width: 85%;
+      padding: 100px;
+    }
+    .our-testimonial-header{
+        width: 100%;
+    }
+    .Our-approach{
+       width: 100%;
+       padding-bottom: 20px;
+    }
+    .gallery-3{
+        width: 70%;
+        padding: 50px;
+    }
+    .Our-approach-heading{
+        padding: 50px;
+    }
+    .call-to-action{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .footer{
+      width: 100%;
+    }
+} 
+@media(max-width:1024px){
+    .main-container{
+        width: 90rem;
+    }
+    .header{
+        width: 100%;
+    }
+    .logo{
+        padding-left: 100px;
+
+    }
+    .inner-menu{
+        display: flex;
+        column-gap: 30px;
+    }
+    .hero-container{
+        width: 78%;
+        padding: 100px;
+    }
+    .hero-section{
+        width: 100%;
+    }
+    .hero-image{
+        width: 100%;
+    }
+    .paragraph-1{
+        margin-bottom: 5px;
+        font-weight: 400;
+    }
+    .hero{
+        width: 60%;
+    }
+    .section-about{
+       width: 100%;
+       column-gap: 80px;
+    }
+    .about-image-section{
+        width: 90%;
+        padding: 100px;
+    }
+    .about-content{
+        width: 80%;
+    }
+    .our-mission{
+      width: 100%;
+    }
+    .our-mission-content{
+        width: 70%;
+        padding: 100px;
+    }
+    .gallery{
+        width: 80%;
+    }
+
+    .menu{
+        font-size: 15px ;
+    }
+    
+    .gallery-2{
+        width: 92%;
+        padding: 50px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+    }
+    .our-vision{
+        width: 100%;
+    }
+    .our-vision-content{
+        width: 40%;
+    }
+    .doctor-image{
+        width: 100%;
+        padding: 50px;
+    }
+    .Services{
+       width: 50%;
+    }
+    .Our-medical-services{
+       width: 100%;
+    }
+    .vector-image{
+        display: flex;
+        justify-content: center;
+        margin-top: -75px;
+        margin-bottom: 40px;
+    }
+    .Services{
+        width: 100%;
+    }
+    .services-header{
+        padding-top: 40px;
+    }
+
+    .our-testimonial{
+      width: 85%;
+      padding: 100px;
+    }
+    .our-testimonial-header{
+        width: 100%;
+    }
+    .Our-approach{
+       width: 100%;
+       padding-bottom: 20px;
+    }
+    .gallery-3{
+        width: 70%;
+        padding: 50px;
+    }
+    .Our-approach-heading{
+        padding: 50px;
+    }
+    .call-to-action{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .footer{
+      width: 100%;
+    }
+}
+@media(max-width:768px){
+    .main-container{
+        width: 100rem;
+    }
+    .hero-section{
+        width: 100%;
+    }
+    .inner-menu{
+        display: flex;
+        justify-content: center;
+        padding-left: 150px;
+    }
+    .menu{
+        font-size: 20px;
+        align-self: center;
+    }
+    .gallery-2{
+        width: 92%;
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .heading{
+        font-size: 50px;
+    }
+    .header-menu{
+        display: none;
+    }
+    .icon-social{
+        width: 50px;
+        height: 50px;
+    }
+    .approach{
+        width: 380px;
+    }
+    .paragraph{
+        font-weight: 500;
+    }
+    .heading-2{
+        font-size: 60px;
+        font-weight: bold;
+    }
+    .footer-sections{
+        display: grid;
+        grid-template-columns: 1fr  1fr;
+        grid-template-rows: 1fr 1fr;
+    }
+    .footer-section-1{
+        margin-bottom: 50px;
+
+    }
+    .footer-menu{
+        font-size: 30px;
+        color: #fdfdfd;
+    }
+    .copy-right-text{
+       font-size: 30px;
+       color: #fdf2e9;
+    }
+    .header-4{
+        font-size: 40px;
+    }
+}
+@media(max-width:425px){
+    .header{
+        width: 1650px;
+    }
+    .header-menu{
+        display: none;
+        color: #002855;
+    }
+    .header{
+        width: 103rem;
+    }
+    .inner-menu{
+        display: flex;
+        justify-content: center;
+        /* column-gap: 100px; */
+        padding-left: 150px;
+        margin-bottom: 40px;
+    }
+    .icon-social{
+        width: 50px;
+        height: 50px;
+    }
+   .hero-section{
+    width: 1650px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+   }
+   .hero-container{
+    align-self: center;
+    text-align: center;
+    margin-bottom: 10px;
+   }
+   .paragraph{
+    font-size: 1.4em;
+   }
+   .paragraph-1{
+     line-height: 1.7;
+     margin-bottom: 20px;
+    font-family:sans-serif;}
+
+   .read-more-1{
+    padding: 10px;
+    width: 150px;
+    font-size: 17px;
+    margin-left: -25px;
+   }
+   .hero-image{
+    width: 95%;
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    margin-left: -30px;
+   }
+   .heading{
+    font-size: 50px;
+   }
+   .hero{
+    transform: scale(1.2);
+    width: 70%;
+    height: 50%;
+   }
+   .about-image-section{
+    display: flex;
+    justify-content: center;
+   }
+   .section-about{
+    display: flex;
+    flex-direction: column-reverse;
+   }
+   .about-content{
+    padding-top: 150px;
+    text-align: center;
+   }
+   .about-image{
+    width: 92%;
+   }
+   .heading2{
+    font-size: 50px;
+   }
+   .paragraph-about{
+    margin-bottom: 20px;
+    line-height: 1.9;
+    font-family: sans-serif;
+   }
+   .vector-image-inner{
+    padding-bottom: 150px;
+   }
+   .our-mission{
+    width: 1650px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+   }
+   .our-mission-content{
+        text-align: center;
+    }
+   .paragraph-our-mission{
+    font-family: sans-serif;
+    line-height: 1.7;
+    margin-bottom: 20px;
+    margin-left: -25px;
+   }
+   .Contact{
+    padding: 20px;
+    font-size: 18px;
+    color: #fdfdfd;
+   }
+   .heading3{
+    font-size: 50px;
+    margin-left: -25px;
+   }
+   .gallery{
+    display: flex;
+    align-self: center;
+   }
+   .layer{
+     margin:0;
+   }
+   .our-vision{
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 150px;
+    padding-top: 100px;
+   }
+   .doctor-image{
+    width: 92%;
+
+   }
+   .our-vision-content{
+    width: 75%;
+    text-align: center;
+   }
+
+   .heading4{
+    font-size: 50px;
+    margin-left: -25px;
+   }
+   .paragraph-our-vision{
+    line-height: 1.7;
+    font-family: sans-serif;
+    margin-bottom: 20px;
+    margin-left: -25px;
+   }
+   .Our-medical-services{
+    width: 1650px;
+    margin-bottom: 50px;
+
+   }
+   .our-services{
+    padding-bottom: 100px;
+   }
+   
+   .testimonial{
+    padding-left: 70px;
+   }
+   .our-testimonial-header{
+    padding-left: 50px;
+   }
+   .testimonial-quote{
+    padding-bottom: 100px;
+   }
+   .Our-approach{
+    width: 1650px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+   }
+   .gallery-3{
+    width: 70%;
+    align-self: center;
+    padding-bottom: 150px;
+   }
+   .heading5{
+    text-align: center;
+   }
+   .paragraph5{
+    text-align: center;
+    font-family: sans-serif;
+    line-height: 1.7;
+    color: #555;
+    font-size: 1.2em;
+    }
+    .paragraph5-inner{
+        font-family: sans-serif;
+        line-height: 1.7;
+        color: #555;
+        font-size: 1.2em;
+    }
+    .h3{
+        font-size: 1.4em;
+    }
+    .p2{
+        font-size: 1.4em;
+    }
+   .approach{
+    width: 520px;
+    height: 400px;
+   }
+   .call-to-action{
+    width: 103rem;
+   }
+   .call-to-action-inner{
+    width: 50%;
+   }
+   .footer{
+    width: 1650px;
+   }
+   .footer-sections{
+    padding: 100px;
+    column-gap: 100px;
+   }
+   .footer-menu{
+    font-size: 18px;
+    font-family: sans-serif;
+   }
+}
+@media(max-width:375px){
+    .main-container{
+        width: 80rem;
+    }
+    .header{
+        width: 94rem;
+    }
+    .hero-section{
+        width: 94rem;
+    }
+   .hero-image{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+   }
+   .hero{
+    width: 100%;
+   }
+   .about-image{
+    width: 90%;
+   }
+   .section-about{
+    width: 94rem;
+   }
+   .our-mission{
+    width: 94rem;
+   }
+   .layer{
+    width: 90%;
+   }
+   .our-vision{
+    width: 94rem;
+   }
+   .Our-medical-services{
+    width: 94rem;
+   }
+   .our-testimonial{
+    width: 80rem;
+   }
+   .testimonial{
+    width: 100%;
+   }
+   .our-testimonial-header{
+    width: 90%;
+   }
+   .Our-approach{
+    width: 94rem;
+   }
+
+   .call-to-action{
+    width:94rem;
+   }
+   .footer{
+    width: 94rem;
+   }
+}
